@@ -1,0 +1,5 @@
+{
+  "name": "MangaFlow AI: Universal Translator & Colorizer",
+  "description": "A high-performance web-based manga processing suite that colorizes black-and-white pages and translates text in-situ using the Gemini API.",
+  "requestFramePermissions": []
+}
